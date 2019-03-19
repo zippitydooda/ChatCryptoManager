@@ -1,2 +1,2 @@
 # GoogleCryptoManager
-Google Assistant App To Manage Crypto
+Chat Bot To Manage Crypto
